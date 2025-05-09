@@ -1,5 +1,6 @@
 ## Hi there 👋
 - ⚡ I'm a big fan of Manchestercity football club
+- 🌱 I'm interested in almost all kinds of knowledge, technology and algorithm in the area of computer science, including front-end back-end developing,AL,data science and so on...
 <!--
 **Zlatanwic/Zlatanwic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
