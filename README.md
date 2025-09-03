@@ -2,6 +2,8 @@
 - ⚡ I'm a big fan of ManchesterCity football club
 - 🌱 I'm interested in almost all kinds of knowledge, technology and algorithm in the area of computer science, including AI, full-stack developing, data science, system and so on...
 - 😄 I still have a lot to learn, so I appreciate your guidance
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zlatanwic)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Zlatanwic/Zlatanwic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
