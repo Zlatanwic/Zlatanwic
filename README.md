@@ -1,6 +1,6 @@
 ## Hi there 👋
 - ⚡ I'm a big fan of ManchesterCity football club
-- 🌱 I'm interested in almost all kinds of knowledge, technology and algorithm in the area of computer science, including AI, full-stack developing, data science, system and so on...
+
 - 😄 I still have a lot to learn, so I appreciate your guidance
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlatanwic&layout=compact)
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zlatanwic)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zlatanwic)- 🌱 I'm interested in almost all kinds of knowledge, technology and algorithm in the area of computer science, including AI, full-stack developing, data science, system and so on...](https://github.com/anuraghazra/github-readme-stats)
 -->
 
