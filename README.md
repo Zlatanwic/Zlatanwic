@@ -5,7 +5,13 @@
 
 - 🔭 I have some knowlage about Vue/React(js) ,python,c,c++,html/css
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlatanwic&layout=compact)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Don't+neglect+your+dreams;Don't+work+too+long;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
+
+<details>
+<summary>More about Me</summary>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlatanwic&layout=compact)
+</details>
+
 <!--
 **Zlatanwic/Zlatanwic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
