@@ -5,7 +5,7 @@
 
 - 🔭 I have some knowlage about Vue/React(js) ,python,c,c++,html/css
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Don't+neglect+your+dreams;Don't+work+too+long;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Come+On+City;May+The+Forces+Be+With+You;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
 
 <details>
 <summary>More about Me</summary>
