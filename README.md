@@ -3,7 +3,9 @@
 
 - 😄 I still have a lot to learn, so I appreciate your guidance
 
-- 🔭 I have some knowlage about Vue/React(js) ,python,c,c++,html/css
+- 🔭 I have some knowlage about Rust,Vue/React(js) ,python,c,c++,html/css
+
+- 🌱 I’m in love with System programming and AI technology...
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Come+On+City;May+The+Forces+Be+With+You;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
 
