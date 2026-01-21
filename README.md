@@ -5,7 +5,7 @@
 
 - 🔭 I have some knowlage about Rust,Vue/React(js) ,python,c,c++,html/css
 
-- 🌱 I’m in love with System programming and AI technology...
+- 🌱 I’m in love with Computer System and AI technology, have some experiences in developing operating system, database, compiler...And in term of AI, I'm focusing on low-level vision in multi-focus image fusion
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Come+On+City;May+The+Forces+Be+With+You;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
 
