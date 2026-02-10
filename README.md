@@ -9,12 +9,22 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Come+On+City;May+The+Forces+Be+With+You;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
 
-<details>
+<!-- <details>
 <summary>More about Me</summary>
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlatanwic&layout=compact)
 
-</details>
+</details> -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zlatanwic&theme=material_palenight)
+
+![](https://github-readme-stats.vercel.app/api?username=Zlatanwic&show_icons=true&theme=material-palenight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zlatanwic&theme=material_palenight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zlatanwic&theme=material_palenight&utcOffset=8)
+
+
+
 
 <!--
 **Zlatanwic/Zlatanwic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
