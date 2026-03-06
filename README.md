@@ -15,7 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 
-- 🌱 I’m in love with Computer System and AI technology & algorithm, have some experiences in developing operating system, database, compiler...And I'm now learing distributed system and concurrency programming. In term of research, I have done some researches on low-level vision in multi-focus image fusion and now focusing on distributed file system oriented LLM training and inference acceleration.
+- 🌱 I’m in love with Computer System and AI technology & algorithm, have some experiences in developing operating system, database, compiler...And I'm now learing distributed system, concurrency programming and AI infra. In term of research, I have done some researches on low-level vision in multi-focus image fusion and now try to focus on distributed file system oriented LLM training and inference acceleration.
 
 
 <!-- <details>
