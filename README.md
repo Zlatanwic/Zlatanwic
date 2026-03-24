@@ -31,7 +31,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zlatanwic&theme=material_palenight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zlatanwic&theme=material_palenight&utcOffset=8)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlatanwic&layout=compact&theme=tokyonight" alt="Top Langs" width="37%" />
 
 
 
