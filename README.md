@@ -35,7 +35,7 @@ When I'm not hacking on systems code, I'm probably watching **Manchester City** 
 <tr>
 <td width="50%" valign="top">
 
-#### [NovaOS](https://github.com/Zlatanwic) 🦀
+#### NovaOS 🦀
 **Rust · RISC-V64 · POSIX-Compatible Kernel**
 
 A from-scratch monolithic kernel for RISC-V64 built in Rust (`no_std`/`no_main`):
@@ -48,7 +48,7 @@ A from-scratch monolithic kernel for RISC-V64 built in Rust (`no_std`/`no_main`)
 </td>
 <td width="50%" valign="top">
 
-#### SemantiCache 🧠
+#### [SemantiCache](https://github.com/Zlatanwic/SemantiCache-block) 🧠
 **Python · PyTorch · Transformers · Qwen2.5-3B · CUDA**
 
 Semantics-aware KV cache eviction for long-context LLM inference:
@@ -62,7 +62,7 @@ Semantics-aware KV cache eviction for long-context LLM inference:
 <tr>
 <td width="50%" valign="top">
 
-#### Paged KV Cache CUDA Kernels ⚡
+#### [Paged KV Cache CUDA Kernels](https://github.com/Zlatanwic/Paged-KV-Cache-CUDA-Kernel-Optimization-for-LLM-Decoding) ⚡
 **CUDA C++ · PyTorch C++ Extension · Nsight Compute**
 
 High-performance paged attention kernels for LLM decode:
