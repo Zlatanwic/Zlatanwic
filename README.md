@@ -1,12 +1,13 @@
 <h1 align="center">Kuo Li</h1>
 
 <p align="center">
-  Undergraduate @ Tongji University · AI Systems · LLM Inference · Operating Systems
+  Undergraduate @ Tongji University · MLSys Fullstack · LLM Inference · Operating Systems
 </p>
 
 <p align="center">
   <a href="mailto:2353113@tongji.edu.cn">Email</a> ·
-  <a href="https://github.com/Zlatanwic">GitHub</a>
+  <a href="https://github.com/Zlatanwic">GitHub</a> ·
+  <a href="https://zlatanwic.github.io/">personal site</a>
 </p>
 
 ---
