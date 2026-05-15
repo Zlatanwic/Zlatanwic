@@ -30,8 +30,6 @@ My recent work focuses on **LLM inference optimization**, **KV cache / paged att
 ---
 
 ### Tech Stack
-
-### Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -52,6 +50,15 @@ My recent work focuses on **LLM inference optimization**, **KV cache / paged att
   <img src="https://img.shields.io/badge/vLLM-111111?style=for-the-badge&logo=lightning&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 
 ---
 
