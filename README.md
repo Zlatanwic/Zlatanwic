@@ -1,7 +1,7 @@
 <h1 align="center">Kuo Li</h1>
 
 <p align="center">
-  Undergraduate @ Tongji University · MLSys Fullstack · LLM Inference · Operating Systems
+  Undergraduate @ Tongji University · MLSys · LLM training/Inference/serving · Operating Systems
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ### About
 
-I'm an undergraduate at **Tongji University** interested in the intersection of **systems programming** and **AI infrastructure**.
+I'm an undergraduate at **Tongji University** interested in the intersection of **machine learning system** and **llm training/inference/serving** and any other ideas that can contribute to todays modern AI system.
 
-My recent work focuses on **LLM inference optimization**, **KV cache / paged attention**, **operating systems**, and **memory-efficient systems design**.
+My recent work focuses on **llm-aware high performance code generation**, **llm inference opimazation on RISC-V platform**.
 
 ---
 
