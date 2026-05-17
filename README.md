@@ -16,7 +16,7 @@
 
 I'm an undergraduate at **Tongji University** interested in the intersection of **machine learning system** and **llm training/inference/serving** and any other ideas that can contribute to todays modern AI system.
 
-My recent work focuses on **llm-aware high performance code generation**, **llm inference opimazation on RISC-V platform**.
+My recent work focuses on **llm-aware high performance code generation**, **optimize the performence of vllm on RISC-V platform**.
 
 ---
 
