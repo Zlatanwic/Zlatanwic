@@ -1,7 +1,7 @@
 <h1 align="center">Kuo Li</h1>
 
 <p align="center">
-  Undergraduate @ Tongji University · MLSys · LLM training/Inference/serving · Operating Systems
+  Undergraduate @ Tongji University · MLSys · LLM training/Inference/serving · agent infra system · Operating Systems
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### About
 
-I'm an undergraduate at **Tongji University** interested in the intersection of **machine learning system** and **llm training/inference/serving** and any other ideas that can contribute to todays modern AI system.
+I'm an undergraduate at **Tongji University** interested in the intersection of **machine learning system** and **llm training/inference/serving** and any other ideas that can contribute to todays modern AI/Agent system.
 
 My recent work focuses on **llm-aware high performance code generation**, **optimize the performence of vllm on RISC-V platform**.
 
