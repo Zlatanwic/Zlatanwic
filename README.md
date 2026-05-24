@@ -1,13 +1,19 @@
 <h1 align="center">Kuo Li</h1>
 
 <p align="center">
-  Undergraduate @ Tongji University · MLSys · LLM training/Inference/serving · agent infra system · Operating Systems
+  Undergraduate @ Tongji University · MLSys · LLM training/Inference/serving · dl compiler · agent infra system · Operating Systems
 </p>
 
 <p align="center">
-  <a href="mailto:2353113@tongji.edu.cn">Email</a> ·
-  <a href="https://github.com/Zlatanwic">GitHub</a> ·
-  <a href="https://zlatanwic.github.io/">personal site</a>
+  <a href="mailto:2353113@tongji.edu.cn">
+    <img src="https://img.shields.io/badge/Email-2353113%40tongji.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://zlatanwic.github.io/">
+    <img src="https://img.shields.io/badge/Website-zlatanwic.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.xiaohongshu.com/user/profile/64902cec000000001c0292c4">
+    <img src="https://img.shields.io/badge/Xiaohongshu-RED-FF2442?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -16,7 +22,7 @@
 
 I'm an undergraduate at **Tongji University** interested in the intersection of **machine learning system** and **llm training/inference/serving** and any other ideas that can contribute to todays modern AI/Agent system.
 
-My recent work focuses on **llm-aware high performance code generation**, **optimize the performence of vllm on RISC-V platform**.
+My recent work focuses on **llm-aware high performance code generation**, **optimize the performence of vllm on RISC-V platform**. Apart from these, I'm also willing to explore any tech to promote any modern AI infrastructure
 
 ---
 
