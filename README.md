@@ -55,7 +55,7 @@ My recent work focuses on:
 - 🚀 **LLM-aware high-performance code generation**
 - 🧠 **KV cache optimization for long-context LLM inference**
 - 🧩 **Optimizing vLLM performance on RISC-V platforms**
-- ⚙️ **CUDA kernels, DL compilers, runtimes, and AI infrastructure**
+- ⚙️ **DL compilers, software hardware co-design/co-opt and MegaKernels**
 - 🛰️ **Modern AI / Agent systems from systems-level perspectives**
 
 I enjoy building low-level systems that make high-level intelligence run faster, cheaper, and more reliably.
