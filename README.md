@@ -101,64 +101,7 @@ I enjoy building low-level systems that make high-level intelligence run faster,
 
 <div align="center">
 
-## 🔥 Selected Work 🔥
 
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 SieveKV
-
-**Semantics-aware KV cache eviction for long-context LLM inference**
-
-- Long-context LLM inference optimization
-- KV cache memory pressure reduction
-- Semantic-aware token retention and eviction
-- Serving-time efficiency and accuracy trade-off
-
-</td>
-<td width="50%">
-
-### ⚡ Paged KV Cache CUDA Kernels
-
-**Fused CUDA kernels for efficient LLM decoding**
-
-- Paged KV cache layout optimization
-- GPU memory access pattern analysis
-- Decode-stage kernel acceleration
-- CUDA-level performance engineering
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🦀 NovaOS
-
-**Rust-based POSIX-compatible kernel for RISC-V64**
-
-- Rust systems programming
-- RISC-V64 kernel development
-- POSIX-compatible OS components
-- Low-level runtime and memory management
-
-</td>
-<td width="50%">
-
-### 🌐 Distributed Semantic Retrieval System
-
-**Chord-based distributed dense retrieval and RAG pipeline**
-
-- Distributed hash table architecture
-- Dense vector retrieval
-- RAG pipeline construction
-- Semantic search infrastructure
-
-</td>
-</tr>
-</table>
 
 ---
 
