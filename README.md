@@ -48,15 +48,18 @@
 
 ### 👋 Hi, I'm Kuo Li
 
-I'm an undergraduate at **Tongji University**, exploring the intersection of **Machine Learning Systems**, **LLM training / inference / serving**, **deep learning compilers**, **agent infrastructure systems**, and **operating systems**.
+I'm an undergraduate at **Tongji University**.
 
-My recent work focuses on:
+My recent work focuses on mlsys fullstack:
 
-- 🚀 **LLM-aware high-performance code generation**
+- 🚀 **llm training/inference/serving system**
 - 🧠 **KV cache optimization for long-context LLM inference**
-- 🧩 **Optimizing vLLM performance on RISC-V platforms**
+- 🧩 **llm-driven high performence kernel generation**
 - ⚙️ **DL compilers, software hardware co-design/co-opt and MegaKernels**
-- 🛰️ **Modern AI / Agent systems from systems-level perspectives**
+- **Efficient AI/Sparse attention**
+- 🛰️ **Modern AI / Agent infrastructure ,Agent OS**
+
+And I'm also exploring embodied AI, generative model, ai4se...
 
 I enjoy building low-level systems that make high-level intelligence run faster, cheaper, and more reliably.
 
