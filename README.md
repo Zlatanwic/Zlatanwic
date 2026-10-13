@@ -24,20 +24,6 @@ I'm also exploring embodied AI, generative models, and AI for software engineeri
 
 *Building systems that make AI faster, cheaper, and more reliable.*
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,cpp,c,python,go,ts,linux,pytorch,git,cmake,docker&perline=11" alt="Languages, frameworks, and tools" />
-</p>
-
-<p align="center">
-  CUDA · vLLM · Transformers · RISC-V
-</p>
-
-## 🏆 Honors
-
-- 🥇 **National First Prize** — Global Campus AI Algorithm Challenge
-- 🥈 **International Silver Medal** — iGEM
 
 ## 📊 GitHub Stats
 
